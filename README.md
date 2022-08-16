@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mgehrls
 - 👀 I'm currently open to working as a front-end developer
-- 🌱 I’m currently learning TypeScript, and working as a contract employee for a tech start-up.
-- 💞️ I love open-source. I didn't understand it's power until I started coding in late 2021.
+- 🌱 I’m currently learning TypeScript, and interning for a tech start-up.
 - 📫 You can reach me at mattgehrls@gmail.com.
