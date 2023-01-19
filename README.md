@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mgehrls
-- 👀 I'm open to working as a react frontend developer
-- 🌱 I’m currently working as a contract developer for a local company.
+- 👀 Trained as a frontend developer, aspiring full stack
 - 📫 You can reach me at mattgehrls@gmail.com.
