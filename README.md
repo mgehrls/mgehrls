@@ -1,10 +1,10 @@
-👋 Hi, I’m Matt Gehrls
-💙 I like making and improving things
-🎵 Bacholors of Music - K-12 Music Education
-🏠 10 years in Real Estate
+👋 Hi, I’m Matt Gehrls <br/>
+💙 I like making and improving things <br/>
+🎵 Bacholors of Music - K-12 Music Education <br/>
+🏠 10 years in Real Estate<br><br>
+Self taught full stack. Involved in the Grand Rapids Development community. <br/>
+Looking for places to use the skills I've built so feel free to email me @ mattgehrls@gmail.com<br><br>
 
-Self taught full stack. Involved in the Grand Rapids Development community.
-Looking for places to use the skills I've built so feel free to email me @ mattgehrls@gmail.com
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgehrls&show_icons=true&theme=radical)
 
