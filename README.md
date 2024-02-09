@@ -1,5 +1,6 @@
 Self-Taught Full Stack Web Dev
-Intern @ Fusionary in Grand Rapids
+
+Intern @ Fusionary
 
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgehrls&show_icons=true&theme=dark&hide_rank=true)
